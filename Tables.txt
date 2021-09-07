@@ -1,0 +1,7 @@
+Create tablespace blobs datafile 'C:\oraclexe\app\oracle\oradata\XE\BLOBS.DBF' size 2000m;
+
+
+Create tablespace indx datafile 'C:\oraclexe\app\oracle\oradata\XE\INDX.DBF' size 2000m;
+
+
+Create tablespace wcaudit datafile 'C:\oraclexe\app\oracle\oradata\XE\WCAUDIT.DBF' size 2000m;
